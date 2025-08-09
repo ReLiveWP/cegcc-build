@@ -1,6 +1,6 @@
 [submodule "w32api"]
 	path = w32api
-	url = https://github.com/enlyze/w32api
+	url = https://github.com/ReLiveWP/w32api
 	branch = wip
 [submodule "binutils"]
 	path = binutils
@@ -8,7 +8,7 @@
 	branch = ce-2.34
 [submodule "gcc"]
 	path = gcc
-	url = https://github.com/enlyze/gcc
+	url = https://github.com/ReLiveWP/gcc
 	branch = ce-9.3.0-x86
 [submodule "mingw"]
 	path = mingw
